@@ -1,0 +1,13 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+#image-hold
+{
+    width:28%;
+    height:600px;
+    box-shadow: 0 8px 7px rgba(21, 235, 246, 0.3);
+    margin-top:60px;
+    margin-left:100px;
+}
